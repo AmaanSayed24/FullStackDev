@@ -8,7 +8,7 @@ Subject: Full Stack Development
 Number of Labs: 12  
 
 
-Introduction
+Introduction-
 This repository contains 12 practical lab exercises completed as part of the Full Stack Development course.  
 The labs cover backend programming with Node.js & Express, module usage, asynchronous programming, database ORM concepts using Sequelize, and frontend development using React, followed by frontend-backend integration.
 
